@@ -1,0 +1,7 @@
+Flask==1.0.2
+Flask-WTF==0.14.2
+gingerit==0.6.0
+google-cloud-translate==1.3.1
+py-trello==0.11.3
+python-rake==1.4.5
+requests==2.19.1
